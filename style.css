@@ -1,5 +1,6 @@
-@import url("kaua-2c-alurabooks/header.css");
-@import url("kaua-2c-alurabooks/banner.css");
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
 
 :root {
     --cor-de-fundo: #ebecee;
